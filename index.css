@@ -1,0 +1,21 @@
+*{
+	background-color: lightblue;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+.boxi{
+			display: flex;
+			border: 20px solid black;
+			background-color: lightpink;
+		}.boxes{
+			border: 1px solid black;
+		}#box-1{
+			flex:1;
+		}#box-2{
+			flex:1;
+		}#box-3{
+			flex:1;
+		} p:hover{
+			color: red;
+		}
